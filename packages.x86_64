@@ -105,8 +105,10 @@ zsh
 #---Loaders
 grub
 calamares
-alg-pure-cala-config
+
 os-prober
+lsb-release
+
 
 #---For GUI---
 xfce4
@@ -123,4 +125,6 @@ neofetch
 xfce4-pulseaudio-plugin
 pulseaudio-alsa
 noto-fonts
+powerline-common 
+powerline-fonts 
 
